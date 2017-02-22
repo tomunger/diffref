@@ -1,0 +1,21 @@
+{
+    "name": "Pinehurst",
+    "address": {
+        "street1": "123 Elk Elm",
+        "street2": "",
+        "city": "Summerset"
+    },
+    "numbers": [ 1, 2, 3, 4, 5],
+    "phonelist": [
+        {
+            "number": "123-123-1234",
+            "type": "home"
+        },
+        {
+            "number": "222-123-1234"
+        },
+        {
+            "number": "333-123-1234"
+        }
+    ]
+}
